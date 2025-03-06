@@ -1,5 +1,6 @@
-# My Portfolio 
+
 # Call Center Analysis Dashboard
+![image](https://github.com/user-attachments/assets/102861f0-b20a-4add-80a4-2e7547895c15)
 
 ## Overview
 This project provides an interactive dashboard to analyze call center performance, customer interactions, and agent efficiency. The dashboard visualizes key metrics such as call volume, revenue, duration, customer satisfaction, and demographic trends.
